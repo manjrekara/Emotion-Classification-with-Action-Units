@@ -4,7 +4,6 @@ The Covid-19 pandemic has necessitated the wearing of face masks in public which
 
 
 ![AU accuracy](https://user-images.githubusercontent.com/65378020/118402436-d9e43400-b637-11eb-87b1-05494eacd825.jpg)
-
-![allvarimportance](https://user-images.githubusercontent.com/65378020/118402450-e6688c80-b637-11eb-834c-466dab144eb8.png)
+![random forest accuracy](https://user-images.githubusercontent.com/65378020/118402474-00a26a80-b638-11eb-8d2e-eaa6b5e519db.jpg)
 
 ![image](https://user-images.githubusercontent.com/79022138/118148757-e3269400-b3de-11eb-8260-319e5aa91bab.png)
